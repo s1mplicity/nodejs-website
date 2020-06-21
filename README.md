@@ -6,8 +6,8 @@
 
 1. Install [node.js](https://nodejs.org/dist/v12.18.1/node-v12.18.1-x64.msi)
 2. Open cmd in the folder
-3. Run npm install 
-4. node server.js (or node .)
+3. Run: npm install 
+4. Run: node server.js (or node .)
  
 # Support
 
